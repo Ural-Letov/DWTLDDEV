@@ -1,7 +1,6 @@
-#HOI4 Flagconverter (made for HGO and Shinsekai)
+#HOI4 Flagconverter
 #To use for yourself: Install Python 3 on your computer, then open command line and 
 #You can then drag and drop an image onto the .py file and it will automatically convert the flags
-#if you have bugs DM Exocamp#8255 kthx
 
 #TODO later: Specify saving the flag of a certain ideology
 
