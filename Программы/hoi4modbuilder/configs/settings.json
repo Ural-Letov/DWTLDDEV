@@ -1,0 +1,25 @@
+{
+  "language": "ru",
+  "gameDirectory": "D:\\steam\\steamapps\\common\\Hearts of Iron IV\\",
+  "gameTempDirectory": "C:\\Users\\Aiaramit\\Documents\\Paradox Interactive\\Hearts of Iron IV\\",
+  "unchangableModDirectories": [],
+  "changableModDirectories": [],
+  "modDirectory": "D:\\GitHub\\DWLTD\\",
+  "useModSettings": false,
+  "actionHistorySize": 20,
+  "textureOpacity": 180,
+  "MAP_VIEWPORT_HEIGHT": 1004.0,
+  "maxAdditionalTextureSize": 2048,
+  "searchErrorsSettings": {
+    "errors": [
+      "PROVINCE_X_CROSS"
+    ]
+  },
+  "defaultModSettings": {
+    "normalMapStrength": 1.5,
+    "exportRiversMapWithWaterPixels": true,
+    "generateNormalMap": true,
+    "MAP_SCALE_PIXEL_TO_KM": 7.114,
+    "WATER_HEIGHT": 9.5
+  }
+}
