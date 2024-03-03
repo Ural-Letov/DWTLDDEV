@@ -1,0 +1,482 @@
+[29.02.2024 3:05:11]: Program version: Alpha 0.2.2
+[29.02.2024 3:05:16]: Loading...
+[29.02.2024 3:05:16]: Loading mod directory: D:\GitHub\DWLTD\
+[29.02.2024 3:05:16]: Perform action MAP_TAB_PROGRESSBAR_LOADING_REPLACE_TAGS (1/13)...
+[29.02.2024 3:05:16]: Perform action MAP_TAB_PROGRESSBAR_LOADING_INFO_ARGS_BLOCKS (2/13)...
+[29.02.2024 3:05:16]: Perform action MAP_TAB_PROGRESSBAR_LOADING_BOOKMARKS (3/13)...
+[29.02.2024 3:05:16]: Perform action MAP_TAB_PROGRESSBAR_LOADING_TERRAINS (4/13)...
+[29.02.2024 3:05:16]: Perform action MAP_TAB_PROGRESSBAR_LOADING_CONTINENTS (5/13)...
+[29.02.2024 3:05:16]: Perform action MAP_TAB_PROGRESSBAR_LOADING_BUILDINGS (6/13)...
+[29.02.2024 3:05:16]: Perform action MAP_TAB_PROGRESSBAR_LOADING_COUNTRIES (7/13)...
+[29.02.2024 3:05:16]: Loading CountryGraphics "colors.txt"
+[29.02.2024 3:05:16]: Loading CountryGraphics "cosmetic.txt"
+[29.02.2024 3:05:16]: Loading CountryGraphics = D01.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D02.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D03.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D04.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D05.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D06.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D07.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D08.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D09.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D10.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D11.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D12.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D13.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D14.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D15.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D16.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D17.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D18.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D19.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D20.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D21.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D22.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D23.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D24.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D25.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D26.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D27.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D28.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D29.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D30.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D31.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D32.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D33.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D34.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D35.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D36.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D37.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D38.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D39.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D40.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D41.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D42.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D43.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D44.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D45.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D46.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D47.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D48.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D49.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D50.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D51.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D52.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D53.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D54.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D55.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D56.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D57.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D58.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D59.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D60.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D61.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D62.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D63.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D64.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D65.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D66.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D67.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D68.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D69.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D70.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D71.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D72.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D73.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D74.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = D75.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = _african.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = _asian.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = _commonwealth.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = _eastern_european.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = _middle_eastern.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = _southamerican.txt
+[29.02.2024 3:05:16]: Loading CountryGraphics = _western_european.txt
+[29.02.2024 3:05:16]: Perform action MAP_TAB_PROGRESSBAR_LOADING_RESOURCES (8/13)...
+[29.02.2024 3:05:16]: Perform action MAP_TAB_PROGRESSBAR_LOADING_STATE_CATEGORIES (9/13)...
+[29.02.2024 3:05:16]: Perform action MAP_TAB_PROGRESSBAR_LOADING_IDEOLOGIES (10/13)...
+[29.02.2024 3:05:16]: Perform action MAP_TAB_PROGRESSBAR_LOADING_PROVINCES_DEFINITION (11/13)...
+[29.02.2024 3:05:16]: Perform action MAP_TAB_PROGRESSBAR_LOADING_STATES (12/13)...
+[29.02.2024 3:05:16]: Loading of States started
+[29.02.2024 3:05:16]: Loading of States finished
+[29.02.2024 3:05:16]: Perform action MAP_TAB_PROGRESSBAR_LOADING_REGIONS (13/13)...
+[29.02.2024 3:05:16]: Perform action MAP_TAB_PROGRESSBAR_LOADING_TEXTURE_MAPS (1/1)...
+[29.02.2024 3:05:17]: Perform action MAP_TAB_PROGRESSBAR_LOADING_PROVINCES_BORDERS_TEXTURE_MAP (1/2)...
+[29.02.2024 3:05:17]: Perform action MAP_TAB_PROGRESSBAR_LOADING_PROVINCES_BORDERS_TEXTURE_MAP (2/2)...
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1731", {"{color}" = "(153; 202; 215)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1733", {"{color}" = "(201; 224; 107)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1735", {"{color}" = "(143; 212; 196)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1738", {"{color}" = "(254; 170; 190)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1739", {"{color}" = "(220; 118; 222)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1741", {"{color}" = "(154; 144; 204)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1745", {"{color}" = "(227; 250; 151)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1746", {"{color}" = "(156; 151; 252)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1750", {"{color}" = "(221; 163; 235)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1751", {"{color}" = "(221; 141; 250)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1755", {"{color}" = "(251; 232; 244)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1760", {"{color}" = "(187; 241; 144)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1761", {"{color}" = "(67; 254; 216)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1762", {"{color}" = "(128; 232; 166)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1766", {"{color}" = "(249; 80; 183)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1773", {"{color}" = "(87; 193; 221)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1775", {"{color}" = "(234; 234; 179)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1777", {"{color}" = "(153; 236; 152)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1785", {"{color}" = "(238; 210; 104)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1822", {"{color}" = "(238; 164; 218)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1839", {"{color}" = "(231; 236; 46)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1843", {"{color}" = "(203; 167; 252)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1851", {"{color}" = "(245; 52; 242)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1853", {"{color}" = "(168; 186; 222)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1917", {"{color}" = "(245; 129; 171)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1922", {"{color}" = "(172; 151; 248)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1929", {"{color}" = "(251; 216; 221)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1941", {"{color}" = "(97; 174; 233)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1961", {"{color}" = "(250; 92; 211)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "1968", {"{color}" = "(226; 99; 198)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2011", {"{color}" = "(246; 77; 183)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2013", {"{color}" = "(252; 173; 246)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2017", {"{color}" = "(125; 141; 244)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2028", {"{color}" = "(111; 251; 148)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2035", {"{color}" = "(136; 254; 232)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2043", {"{color}" = "(109; 246; 246)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2048", {"{color}" = "(134; 176; 195)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2112", {"{color}" = "(239; 235; 53)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2120", {"{color}" = "(152; 211; 202)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2204", {"{color}" = "(203; 188; 152)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2338", {"{color}" = "(203; 203; 149)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2368", {"{color}" = "(200; 249; 183)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2552", {"{color}" = "(193; 69; 247)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2553", {"{color}" = "(152; 242; 179)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2554", {"{color}" = "(241; 110; 205)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2555", {"{color}" = "(224; 195; 87)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2556", {"{color}" = "(200; 235; 235)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2589", {"{color}" = "(185; 191; 247)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2642", {"{color}" = "(215; 137; 245)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2680", {"{color}" = "(253; 178; 253)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2733", {"{color}" = "(193; 212; 138)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2834", {"{color}" = "(208; 137; 216)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2840", {"{color}" = "(230; 115; 212)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2841", {"{color}" = "(193; 212; 162)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2852", {"{color}" = "(45; 247; 222)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "2867", {"{color}" = "(228; 190; 109)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "3113", {"{color}" = "(251; 169; 210)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "3117", {"{color}" = "(254; 216; 66)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7108", {"{color}" = "(0; 6; 66)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7119", {"{color}" = "(74; 6; 11)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7140", {"{color}" = "(17; 39; 4)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7180", {"{color}" = "(15; 30; 3)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7185", {"{color}" = "(21; 0; 28)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7200", {"{color}" = "(20; 47; 13)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7206", {"{color}" = "(8; 46; 18)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7208", {"{color}" = "(14; 35; 27)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7209", {"{color}" = "(11; 45; 36)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7219", {"{color}" = "(10; 2; 81)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7256", {"{color}" = "(6; 1; 74)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7268", {"{color}" = "(63; 15; 4)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7387", {"{color}" = "(3; 47; 49)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7388", {"{color}" = "(30; 56; 5)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7393", {"{color}" = "(15; 27; 35)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7394", {"{color}" = "(47; 19; 0)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7395", {"{color}" = "(70; 15; 13)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7396", {"{color}" = "(6; 40; 34)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7397", {"{color}" = "(7; 0; 84)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7398", {"{color}" = "(9; 4; 23)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7400", {"{color}" = "(16; 40; 24)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7401", {"{color}" = "(25; 13; 22)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7402", {"{color}" = "(3; 46; 28)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7403", {"{color}" = "(26; 5; 46)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7404", {"{color}" = "(23; 34; 35)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7407", {"{color}" = "(20; 22; 9)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7408", {"{color}" = "(31; 61; 6)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7414", {"{color}" = "(23; 14; 28)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7421", {"{color}" = "(5; 25; 51)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7426", {"{color}" = "(1; 4; 2)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7431", {"{color}" = "(10; 33; 43)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7435", {"{color}" = "(20; 47; 7)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7440", {"{color}" = "(4; 51; 30)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7441", {"{color}" = "(37; 30; 14)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7442", {"{color}" = "(0; 64; 6)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7453", {"{color}" = "(25; 9; 60)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7454", {"{color}" = "(43; 39; 6)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7456", {"{color}" = "(13; 2; 27)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7460", {"{color}" = "(30; 4; 64)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7463", {"{color}" = "(5; 57; 17)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7464", {"{color}" = "(32; 6; 0)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7466", {"{color}" = "(4; 30; 38)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7471", {"{color}" = "(10; 49; 13)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7472", {"{color}" = "(53; 10; 21)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7475", {"{color}" = "(55; 12; 13)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7478", {"{color}" = "(48; 18; 0)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7479", {"{color}" = "(49; 13; 27)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7480", {"{color}" = "(12; 21; 30)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7482", {"{color}" = "(7; 29; 26)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7485", {"{color}" = "(11; 39; 4)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7490", {"{color}" = "(9; 8; 44)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7493", {"{color}" = "(10; 1; 59)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7495", {"{color}" = "(1; 5; 46)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7499", {"{color}" = "(5; 9; 73)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7501", {"{color}" = "(41; 47; 9)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7503", {"{color}" = "(22; 18; 6)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7504", {"{color}" = "(20; 37; 30)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7505", {"{color}" = "(18; 43; 19)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7513", {"{color}" = "(43; 49; 5)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7517", {"{color}" = "(27; 9; 22)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7519", {"{color}" = "(12; 36; 50)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7524", {"{color}" = "(22; 12; 36)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7525", {"{color}" = "(35; 5; 1)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7528", {"{color}" = "(0; 29; 45)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7530", {"{color}" = "(39; 52; 2)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7537", {"{color}" = "(33; 4; 11)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7548", {"{color}" = "(5; 2; 23)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7572", {"{color}" = "(68; 19; 9)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7574", {"{color}" = "(73; 16; 8)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7587", {"{color}" = "(58; 4; 35)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7596", {"{color}" = "(6; 14; 13)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7597", {"{color}" = "(21; 14; 29)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7600", {"{color}" = "(25; 16; 8)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7601", {"{color}" = "(20; 37; 9)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7603", {"{color}" = "(3; 24; 42)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7607", {"{color}" = "(57; 4; 10)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7614", {"{color}" = "(16; 51; 27)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7620", {"{color}" = "(29; 41; 22)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7623", {"{color}" = "(8; 18; 2)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7624", {"{color}" = "(5; 51; 18)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7626", {"{color}" = "(17; 25; 37)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7628", {"{color}" = "(6; 78; 0)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7629", {"{color}" = "(5; 0; 79)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7630", {"{color}" = "(7; 82; 1)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7631", {"{color}" = "(13; 56; 12)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7633", {"{color}" = "(6; 45; 16)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7634", {"{color}" = "(30; 18; 31)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7635", {"{color}" = "(11; 14; 71)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7639", {"{color}" = "(77; 11; 1)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7643", {"{color}" = "(30; 10; 19)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7644", {"{color}" = "(72; 3; 3)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7645", {"{color}" = "(7; 64; 26)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7647", {"{color}" = "(11; 56; 31)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7648", {"{color}" = "(26; 14; 22)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7649", {"{color}" = "(41; 2; 55)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7651", {"{color}" = "(33; 45; 18)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7652", {"{color}" = "(43; 10; 37)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7653", {"{color}" = "(2; 14; 10)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7658", {"{color}" = "(4; 43; 9)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7659", {"{color}" = "(60; 12; 11)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7661", {"{color}" = "(73; 1; 23)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7662", {"{color}" = "(45; 20; 29)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7663", {"{color}" = "(40; 1; 52)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7664", {"{color}" = "(65; 12; 17)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7670", {"{color}" = "(1; 42; 21)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7671", {"{color}" = "(57; 14; 13)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7673", {"{color}" = "(25; 12; 11)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7677", {"{color}" = "(66; 4; 14)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7679", {"{color}" = "(28; 18; 34)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7680", {"{color}" = "(36; 34; 21)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7684", {"{color}" = "(23; 52; 4)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7685", {"{color}" = "(51; 18; 29)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7694", {"{color}" = "(42; 24; 20)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7714", {"{color}" = "(43; 32; 16)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7715", {"{color}" = "(44; 27; 25)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7722", {"{color}" = "(15; 11; 25)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7723", {"{color}" = "(63; 24; 2)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7726", {"{color}" = "(10; 62; 5)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7727", {"{color}" = "(34; 24; 14)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7730", {"{color}" = "(8; 62; 29)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7738", {"{color}" = "(8; 45; 23)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7747", {"{color}" = "(58; 17; 15)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7749", {"{color}" = "(5; 74; 3)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7751", {"{color}" = "(19; 71; 2)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7752", {"{color}" = "(14; 4; 60)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7757", {"{color}" = "(6; 0; 7)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7760", {"{color}" = "(6; 26; 22)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7761", {"{color}" = "(15; 10; 43)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7779", {"{color}" = "(49; 35; 11)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7788", {"{color}" = "(6; 61; 17)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7796", {"{color}" = "(8; 50; 1)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7797", {"{color}" = "(83; 2; 6)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7799", {"{color}" = "(4; 20; 53)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7802", {"{color}" = "(2; 4; 65)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7808", {"{color}" = "(14; 25; 58)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7811", {"{color}" = "(18; 7; 44)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7812", {"{color}" = "(28; 10; 19)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7819", {"{color}" = "(6; 23; 70)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7824", {"{color}" = "(21; 7; 63)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7825", {"{color}" = "(27; 20; 40)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7826", {"{color}" = "(7; 17; 63)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7827", {"{color}" = "(36; 15; 15)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7832", {"{color}" = "(45; 19; 25)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7840", {"{color}" = "(11; 7; 49)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7841", {"{color}" = "(7; 25; 64)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7844", {"{color}" = "(10; 0; 42)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7847", {"{color}" = "(60; 36; 1)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7858", {"{color}" = "(5; 25; 39)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7868", {"{color}" = "(9; 70; 17)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7881", {"{color}" = "(15; 14; 25)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7883", {"{color}" = "(30; 12; 13)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7884", {"{color}" = "(14; 77; 6)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7885", {"{color}" = "(45; 11; 9)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7890", {"{color}" = "(24; 5; 45)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7907", {"{color}" = "(0; 1; 63)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7910", {"{color}" = "(34; 37; 13)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7916", {"{color}" = "(27; 0; 26)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7924", {"{color}" = "(17; 10; 65)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7928", {"{color}" = "(3; 6; 26)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7960", {"{color}" = "(30; 23; 32)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7967", {"{color}" = "(80; 0; 11)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7968", {"{color}" = "(8; 39; 4)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7970", {"{color}" = "(20; 11; 10)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7976", {"{color}" = "(15; 82; 0)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7980", {"{color}" = "(46; 13; 35)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "7990", {"{color}" = "(7; 16; 27)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8004", {"{color}" = "(26; 14; 8)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8010", {"{color}" = "(32; 39; 19)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8019", {"{color}" = "(19; 2; 74)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8034", {"{color}" = "(46; 3; 29)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8040", {"{color}" = "(68; 17; 1)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8074", {"{color}" = "(29; 8; 44)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8084", {"{color}" = "(38; 28; 14)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8087", {"{color}" = "(48; 3; 27)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8092", {"{color}" = "(2; 45; 29)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8104", {"{color}" = "(29; 5; 36)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8153", {"{color}" = "(7; 21; 43)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8162", {"{color}" = "(38; 40; 20)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8163", {"{color}" = "(5; 54; 24)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8195", {"{color}" = "(22; 47; 11)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8198", {"{color}" = "(58; 26; 6)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8201", {"{color}" = "(25; 43; 16)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8203", {"{color}" = "(19; 15; 35)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8211", {"{color}" = "(16; 6; 67)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8212", {"{color}" = "(28; 2; 8)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8223", {"{color}" = "(2; 14; 0)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8230", {"{color}" = "(42; 89; 41)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8231", {"{color}" = "(4; 41; 12)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8248", {"{color}" = "(45; 18; 12)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8265", {"{color}" = "(39; 52; 8)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8267", {"{color}" = "(27; 39; 9)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8273", {"{color}" = "(21; 23; 46)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8294", {"{color}" = "(202; 223; 128)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8306", {"{color}" = "(1; 10; 81)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8311", {"{color}" = "(12; 1; 75)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8347", {"{color}" = "(5; 7; 21)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8350", {"{color}" = "(6; 77; 6)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8351", {"{color}" = "(67; 9; 11)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8352", {"{color}" = "(41; 7; 16)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8358", {"{color}" = "(73; 2; 0)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8360", {"{color}" = "(41; 46; 8)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8361", {"{color}" = "(44; 29; 3)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8362", {"{color}" = "(4; 45; 36)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8363", {"{color}" = "(0; 26; 63)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8364", {"{color}" = "(61; 6; 16)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8365", {"{color}" = "(23; 12; 21)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8366", {"{color}" = "(39; 25; 13)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8367", {"{color}" = "(6; 58; 30)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8368", {"{color}" = "(22; 0; 7)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8369", {"{color}" = "(10; 7; 52)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8372", {"{color}" = "(39; 21; 13)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8373", {"{color}" = "(34; 59; 0)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8374", {"{color}" = "(11; 30; 17)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8375", {"{color}" = "(12; 27; 60)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8376", {"{color}" = "(83; 2; 8)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8377", {"{color}" = "(11; 37; 43)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8378", {"{color}" = "(23; 70; 3)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8379", {"{color}" = "(55; 27; 13)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8382", {"{color}" = "(11; 33; 28)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8383", {"{color}" = "(38; 27; 27)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8385", {"{color}" = "(22; 1; 35)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8386", {"{color}" = "(21; 6; 21)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8387", {"{color}" = "(11; 52; 28)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8388", {"{color}" = "(26; 12; 17)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8389", {"{color}" = "(3; 52; 14)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8390", {"{color}" = "(5; 74; 20)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8391", {"{color}" = "(39; 24; 16)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8392", {"{color}" = "(21; 55; 13)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8393", {"{color}" = "(2; 90; 5)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8394", {"{color}" = "(26; 23; 29)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8395", {"{color}" = "(39; 18; 32)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8396", {"{color}" = "(22; 56; 2)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8397", {"{color}" = "(24; 68; 3)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8398", {"{color}" = "(12; 30; 16)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8400", {"{color}" = "(36; 6; 56)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8401", {"{color}" = "(17; 2; 53)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8402", {"{color}" = "(3; 63; 20)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8404", {"{color}" = "(54; 10; 30)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8405", {"{color}" = "(8; 6; 38)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8407", {"{color}" = "(8; 14; 44)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8408", {"{color}" = "(48; 3; 44)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8409", {"{color}" = "(34; 39; 10)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8412", {"{color}" = "(10; 46; 22)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8414", {"{color}" = "(13; 6; 25)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8430", {"{color}" = "(22; 7; 28)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8438", {"{color}" = "(19; 68; 4)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8440", {"{color}" = "(76; 18; 1)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8442", {"{color}" = "(29; 3; 1)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8445", {"{color}" = "(11; 23; 56)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8449", {"{color}" = "(10; 25; 6)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8450", {"{color}" = "(12; 54; 23)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8451", {"{color}" = "(50; 5; 22)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "8979", {"{color}" = "(21; 44; 244)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "9061", {"{color}" = "(249; 87; 19)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "9838", {"{color}" = "(57; 147; 78)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "9978", {"{color}" = "(81; 111; 74)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "10296", {"{color}" = "(35; 123; 10)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "10490", {"{color}" = "(190; 154; 184)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "10562", {"{color}" = "(121; 109; 41)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "10619", {"{color}" = "(39; 116; 178)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "10995", {"{color}" = "(0; 0; 0)", }
+[29.02.2024 3:05:17]: WARNING: WARNING_PROVINCE_HAS_ZERO_PIXELS, Values: dictionary = { {"{id}" = "11004", {"{color}" = "(141; 215; 245)", }
+[29.02.2024 3:05:17]: Perform action MAP_TAB_PROGRESSBAR_LOADING_ADDITIONAL_MAP_LAYERS (1/1)...
+[29.02.2024 3:05:17]: Perform action MAP_TAB_PROGRESSBAR_LOADING_TEXTURE_MAPS (1/3)...
+[29.02.2024 3:05:17]: Perform action MAP_TAB_PROGRESSBAR_LOADING_ADJACENCIES_DEFINITION (2/3)...
+[29.02.2024 3:05:17]: Perform action MAP_TAB_PROGRESSBAR_LOADING_SUPPLIES (3/3)...
+[29.02.2024 3:05:17]: Perform action MAP_TAB_PROGRESSBAR_REGIONS_BORDERS_ASSEMBLE (1/5)...
+[29.02.2024 3:05:17]: Perform action MAP_TAB_PROGRESSBAR_REGIONS_BORDERS_ASSEMBLE (2/5)...
+[29.02.2024 3:05:18]: Perform action MAP_TAB_PROGRESSBAR_REGIONS_BORDERS_ASSEMBLE (3/5)...
+[29.02.2024 3:05:18]: X-Cross count: 26. Coordinates: 
+[29.02.2024 3:05:18]: x = 2846; y = 113
+[29.02.2024 3:05:18]: x = 2239; y = 215
+[29.02.2024 3:05:18]: x = 1430; y = 229
+[29.02.2024 3:05:18]: x = 2816; y = 283
+[29.02.2024 3:05:18]: x = 1811; y = 344
+[29.02.2024 3:05:18]: x = 1801; y = 405
+[29.02.2024 3:05:18]: x = 2506; y = 580
+[29.02.2024 3:05:18]: x = 2292; y = 1040
+[29.02.2024 3:05:18]: x = 1673; y = 1223
+[29.02.2024 3:05:18]: x = 4350; y = 1318
+[29.02.2024 3:05:18]: x = 4024; y = 1358
+[29.02.2024 3:05:18]: x = 2807; y = 1363
+[29.02.2024 3:05:18]: x = 5024; y = 1375
+[29.02.2024 3:05:18]: x = 1653; y = 1380
+[29.02.2024 3:05:18]: x = 1683; y = 1408
+[29.02.2024 3:05:18]: x = 1676; y = 1433
+[29.02.2024 3:05:18]: x = 1674; y = 1437
+[29.02.2024 3:05:18]: x = 4410; y = 1466
+[29.02.2024 3:05:18]: x = 553; y = 1482
+[29.02.2024 3:05:18]: x = 484; y = 1573
+[29.02.2024 3:05:18]: x = 419; y = 1576
+[29.02.2024 3:05:18]: x = 2377; y = 1842
+[29.02.2024 3:05:18]: x = 1894; y = 2108
+[29.02.2024 3:05:18]: x = 2435; y = 2130
+[29.02.2024 3:05:18]: x = 3422; y = 2295
+[29.02.2024 3:05:18]: x = 580; y = 2431
+[29.02.2024 3:05:18]: BordersInitAndAssemble = 893 ms
+[29.02.2024 3:05:18]: ProvinceBorderCount = 33332
+[29.02.2024 3:05:18]: Perform action MAP_TAB_PROGRESSBAR_STATES_BORDERS_ASSEMBLE (4/5)...
+[29.02.2024 3:05:18]: Perform action MAP_TAB_PROGRESSBAR_REGIONS_BORDERS_ASSEMBLE (5/5)...
+[29.02.2024 3:05:18]: Perform action MAP_TAB_PROGRESSBAR_MAP_ERRORS_SEARCHING (1/18)...
+[29.02.2024 3:05:18]: Perform action MAP_TAB_PROGRESSBAR_MAP_ERRORS_SEARCHING (2/18)...
+[29.02.2024 3:05:18]: Perform action MAP_TAB_PROGRESSBAR_MAP_ERRORS_SEARCHING (3/18)...
+[29.02.2024 3:05:18]: Perform action MAP_TAB_PROGRESSBAR_MAP_ERRORS_SEARCHING (4/18)...
+[29.02.2024 3:05:18]: Perform action MAP_TAB_PROGRESSBAR_MAP_ERRORS_SEARCHING (5/18)...
+[29.02.2024 3:05:18]: Perform action MAP_TAB_PROGRESSBAR_MAP_ERRORS_SEARCHING (6/18)...
+[29.02.2024 3:05:18]: Perform action MAP_TAB_PROGRESSBAR_MAP_ERRORS_SEARCHING (7/18)...
+[29.02.2024 3:05:18]: Perform action MAP_TAB_PROGRESSBAR_MAP_ERRORS_SEARCHING (8/18)...
+[29.02.2024 3:05:18]: Perform action MAP_TAB_PROGRESSBAR_MAP_ERRORS_SEARCHING (9/18)...
+[29.02.2024 3:05:18]: Perform action MAP_TAB_PROGRESSBAR_MAP_ERRORS_SEARCHING (10/18)...
+[29.02.2024 3:05:18]: Perform action MAP_TAB_PROGRESSBAR_MAP_ERRORS_SEARCHING (11/18)...
+[29.02.2024 3:05:18]: Perform action MAP_TAB_PROGRESSBAR_MAP_ERRORS_SEARCHING (12/18)...
+[29.02.2024 3:05:18]: Perform action MAP_TAB_PROGRESSBAR_MAP_ERRORS_SEARCHING (13/18)...
+[29.02.2024 3:05:18]: Perform action MAP_TAB_PROGRESSBAR_MAP_ERRORS_SEARCHING (14/18)...
+[29.02.2024 3:05:18]: Perform action MAP_TAB_PROGRESSBAR_MAP_ERRORS_SEARCHING (15/18)...
+[29.02.2024 3:05:18]: Perform action MAP_TAB_PROGRESSBAR_MAP_ERRORS_SEARCHING (16/18)...
+[29.02.2024 3:05:18]: Perform action MAP_TAB_PROGRESSBAR_MAP_ERRORS_SEARCHING (17/18)...
+[29.02.2024 3:05:18]: Perform action MAP_TAB_PROGRESSBAR_MAP_ERRORS_SEARCHING (18/18)...
+[29.02.2024 3:05:19]: 396,6605 MB -> 73,91752 MB (-322,743 MB)
