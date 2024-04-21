@@ -4,10 +4,11 @@ PROGRESSBAR_SAVED: "Saving is completed."
 PROGRESSBAR_SAVING_FAILED: "Saving is failed. [W: {warningsCount}; ER: {errorsCount}; EX: {exceptionsCount}]"
 PROGRESSBAR_UPDATED: "Update is completed."
 
-CHOOSE_ACTION: "Select an action."
+CHOOSE_ACTION: "Select an action"
+INFO_MESSAGE: "Info Message"
 
-ERROR_HAS_OCCURED: "An Error has occured."
-EXCEPTION_HAS_OCCURED: "An Exception has occured."
+ERROR_HAS_OCCURED: "An Error has occured"
+EXCEPTION_HAS_OCCURED: "An Exception has occured"
 
 FOUND_WARNINGS_FORM_TITLE: "Found Warnings"
 FOUND_WARNINGS_COUNT: "Warnings count: "
@@ -17,6 +18,9 @@ FOUND_ERRORS_COUNT: "Errors count: "
 
 FOUND_EXCEPTIONS_FORM_TITLE: "Found Exceptions"
 FOUND_EXCEPTIONS_COUNT: "Exceptions count: {exceptionsCount} (full log file: \"{logFilepath}\")"
+
+FOUND_ADDITIONAL_EXCEPTIONS_FORM_TITLE: "Found Additional Exceptions"
+FOUND_ADDITIONAL_EXCEPTIONS_COUNT: "Additional Exceptions count: {exceptionsCount} (full log file: \"{logFilepath}\")"
 
 FOLDER_BROWSER_DIALOG_CHOOSE_GAME_DIRECTORY_TITLE: "Choose game directory"
 SINGLE_MESSAGE_NO_HOI4EXE_FILE_IN_GAME_DIRECTORY: "The game directory should contain file \"{fileName}\"."
@@ -68,6 +72,24 @@ AUTOTOOLS_FIND_MAP_CHANGES_PNG_SAVED_TEXT: "PNG file with map changes saved succ
 
 EXCEPTION_AUTOTOOL_FIND_MAP_CHANGES_PROVINCES_BMP_HAS_TO_BE_24BPP: "You cannot choose this map file because it's format of pixels is not 24bitPerPixel."
 EXCEPTION_AUTOTOOL_FIND_MAP_CHANGES_PROVINCES_BMP_HAS_TO_BE_SAME_SIZE: "You cannot choose this map file because it's size is not the same as the current map."
+
+FORM_STRATEGIC_REGION_DATA_RECOVERY_DIRECTORY_PATH_LABEL: "Directory: {directoryPath}"
+FORM_STRATEGIC_REGION_DATA_RECOVERY_LOADED_REGION_COUNT_LABEL: "Loaded: {count} regions."
+FORM_STRATEGIC_REGION_DATA_RECOVERY_FILTRED_REGION_COUNT_LABEL: "Filtered: {count} regions."
+FORM_STRATEGIC_REGION_DATA_RECOVERY_FILTRED_REGION_THAT_DONT_EXISTS_COUNT_LABEL: "{count} of them do/does not currently exist."
+EXCEPTION_FORM_STRATEGIC_REGION_DATA_RECOVERY_FILTER_INCORRECT_RANGE: "Region IDs filter contains incorrect id range \"{value}\"."
+EXCEPTION_FORM_STRATEGIC_REGION_DATA_RECOVERY_CANT_EXECUTE_BECAUSE_NO_DATA_WAS_LOADED: "The process of data recovery cannot be started because the mod's data has not yet been loaded."
+
+SINGLE_MESSAGE_STRATEGIC_REGION_DATA_RECOVERY_FILTER_HELP: "With the filter you can filter out unnecessary Strategic Regions by their ID and recover data only of those regions you are interested in. \nAn example filter: \"{exampleFilter}\".\nThis filter will leave only regions with IDs: {exampleIds}."
+SINGLE_MESSAGE_STRATEGIC_REGION_DATA_RECOVERY_LOAD_RESULT: "Successfully loaded {count} of {allCount} Regions."
+SINGLE_MESSAGE_STRATEGIC_REGION_DATA_RECOVERY_FILTER_RESULT: "Successfully filtered {count} of {allCount} Regions."
+SINGLE_MESSAGE_STRATEGIC_REGION_DATA_RECOVERY_RECOVERY_RESULT: "Successfully recovered data for {count} of {allCount} Regions."
+
+MERGE_PROVINCES_TOOL_SECOND_AND_LAST_PROVINCES_HAVE_VICTORY_POINTS: "The second province with id = {secondProvinceId} and the province with the highest id = {provinceIdToReplace} have Victory Points of {secondProvinceVictoryPoints} and {provinceToReplaceVictoryPoints} units respectively. \n\nAre you sure you want to replace the province id from {provinceIdToReplace} to {secondProvinceId} without changing the localization of Victory Points for those provinces with those ids?"
+MERGE_PROVINCES_TOOL_SECOND_PROVINCE_HAS_VICTORY_POINTS: "The second province with id = {secondProvinceId} has Victory Points of {secondProvinceVictoryPoints} units. \n\nAre you sure you want to transfer it's id = {secondProvinceId} to the other province with id = {provinceIdToReplace} without changing the localization of Victory Points for the second province with id = {secondProvinceId}?"
+MERGE_PROVINCES_TOOL_LAST_PROVINCE_HAS_VICTORY_POINTS: "The province with the highest id = {provinceIdToReplace} has Victory Points of {provinceToReplaceVictoryPoints} units. \n\nAre you sure you want to change the province id from {provinceIdToReplace} to {secondProvinceId} without changing the localization of Victory Points for the province with id = {provinceIdToReplace}?"
+
+TOOL_CAN_JOIN_RAILWAYS_BUT_THEY_HAS_DIFFERENT_LEVELS_SHOULD_I_COUNTINUE: "You have tried to join 2 railways with different levels ({firstRailwayLevel} and {secondRailwayLevel}). \n\nAre you sure you want to continue and set the result railway's level to {newRailwayLevel}?"
 
 SINGLE_MESSAGE_STATE_NOT_FOUND_BY_ID: "The state with id = {stateId} not found."
 SINGLE_MESSAGE_NEW_PROVINCE_WITH_COLOR_WAS_CREATED: "The new province with id = {provinceId} and {color} was created"
@@ -131,9 +153,14 @@ ERROR_STATE_HISTORY_BUILDINGS_UNKNOWN_TOKEN_IN_PROVINCE: "The state with id = {s
 ERROR_REGION_INCORRECT_PROVINCE_ID: "The region with id = {regionId} has incorrect province id value \"{provinceId}\" in \"provinces\" block."
 ERROR_REGION_PROVINCE_NOT_FOUND: "The region with id = {regionId} has id value \"{provinceId}\" of not existing province in \"provinces\" block."
 ERROR_REGION_INCORRECT_NAVAL_TERRAIN_VALUE: "The region with id = {regionId} has unknown terrain value for parameter naval_terrain = \"{value}\"."
-ERROR_REGION_UNKNOWN_TOKEN_IN_PROVINCE: "The region with id = {regionId} has unknown token \"{token}\"."
+ERROR_REGION_UNKNOWN_TOKEN: "The region with id = {regionId} has unknown token \"{token}\"."
+ERROR_REGION_WEATHER_UNKNOWN_TOKEN: "The region with id = {regionId} in \"weather\" block has unknown token \"{token}\"."
+ERROR_REGION_WEATHER_PERIOD_UNKNOWN_TOKEN: "The region with id = {regionId} in \"weather\" block in period \"{period}\" has unknown token \"{token}\"."
 
 ERROR_REGION_UNSUCCESSFUL_REGION_ID_PARSE_RESULT: "[Could not parse region id]"
+ERROR_REGION_DUPLICATE_ID: "ID = {regionId} already used by another region. The first ID statement was in the file at {firstFilePath}."
+ERROR_MULTI_REGIONS_IN_FILE: "File contains more than one Strategic Region."
+ERROR_REGION_HAS_NO_FILE: "Strategic Region has no file to save it's data."
 ERROR_WHILE_REGION_LOADING: "Could not load Strategic Region with id = {regionId} from file {filePath}."
 
 ERROR_ADJACENCY_LOADING_INCORRECT_PARAMS_COUNT: "The adjacency with id = {adjacencyId} has incorrect parameters count ({currentCount} instead of {correctCount})."

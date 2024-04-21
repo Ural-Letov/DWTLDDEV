@@ -4,10 +4,11 @@ PROGRESSBAR_SAVED: "Сохранение завершено."
 PROGRESSBAR_SAVING_FAILED: "Сохранение прервано. [П: {warningsCount}; О: {errorsCount}; К: {exceptionsCount}]"
 PROGRESSBAR_UPDATED: "Обновление завершено."
 
-CHOOSE_ACTION: "Выберите действие."
+CHOOSE_ACTION: "Выберите действие"
+INFO_MESSAGE: "Информационное сообщение"
 
-ERROR_HAS_OCCURED: "Произошла ошибка."
-EXCEPTION_HAS_OCCURED: "Произошла критическая ошибка."
+ERROR_HAS_OCCURED: "Произошла ошибка"
+EXCEPTION_HAS_OCCURED: "Произошла критическая ошибка"
 
 FOUND_WARNINGS_FORM_TITLE: "Список обнаруженных предупреждений"
 FOUND_WARNINGS_COUNT: "Обнаружено предупреждений: "
@@ -17,6 +18,9 @@ FOUND_ERRORS_COUNT: "Обнаружено ошибок: "
 
 FOUND_EXCEPTIONS_FORM_TITLE: "Список обнаруженных критических ошибок"
 FOUND_EXCEPTIONS_COUNT: "Обнаружено критических ошибок: {exceptionsCount} (полная информация доступна в файле: \"{logFilepath}\")"
+
+FOUND_ADDITIONAL_EXCEPTIONS_FORM_TITLE: "Список обнаруженных доп. критич. ошибок"
+FOUND_ADDITIONAL_EXCEPTIONS_COUNT: "Обнаружено доп. критич. ошибок: {exceptionsCount} (полная информация доступна в файле: \"{logFilepath}\")"
 
 FOLDER_BROWSER_DIALOG_CHOOSE_GAME_DIRECTORY_TITLE: "Выбор основной директории игры"
 SINGLE_MESSAGE_NO_HOI4EXE_FILE_IN_GAME_DIRECTORY: "В выбранной папке игры не найден файл \"{fileName}\"."
@@ -68,6 +72,24 @@ AUTOTOOLS_FIND_MAP_CHANGES_PNG_SAVED_TEXT: "PNG файл с изменениям
 
 EXCEPTION_AUTOTOOL_FIND_MAP_CHANGES_PROVINCES_BMP_HAS_TO_BE_24BPP: "Невозможно выбрать карту провинций, формат изображения которой не 24 бит на пиксель."
 EXCEPTION_AUTOTOOL_FIND_MAP_CHANGES_PROVINCES_BMP_HAS_TO_BE_SAME_SIZE: "Невозможно выбрать карту провинций, размер которой не соответствует размеру основной карты."
+
+FORM_STRATEGIC_REGION_DATA_RECOVERY_DIRECTORY_PATH_LABEL: "Папка: {directoryPath}"
+FORM_STRATEGIC_REGION_DATA_RECOVERY_LOADED_REGION_COUNT_LABEL: "Загружено регионов: {count} шт."
+FORM_STRATEGIC_REGION_DATA_RECOVERY_FILTRED_REGION_COUNT_LABEL: "Отфильтровано регионов: {count} шт."
+FORM_STRATEGIC_REGION_DATA_RECOVERY_FILTRED_REGION_THAT_DONT_EXISTS_COUNT_LABEL: "Из них {count} шт. сейчас не существуют."
+EXCEPTION_FORM_STRATEGIC_REGION_DATA_RECOVERY_FILTER_INCORRECT_RANGE: "В фильтре регионов по ID указан некорректный диапазон id \"{value}\"."
+EXCEPTION_FORM_STRATEGIC_REGION_DATA_RECOVERY_CANT_EXECUTE_BECAUSE_NO_DATA_WAS_LOADED: "Восстановление данных невозможно, поскольку никакие данные о выбранном моде ещё не были загружены."
+
+SINGLE_MESSAGE_STRATEGIC_REGION_DATA_RECOVERY_FILTER_HELP: "С помощью фильтра Вы можете отсеять лишние Стратегические регионы по их ID и восстановить данные только о тех регионах, которые Вас интересуют. \n\nПример фильтра: \"{exampleFilter}\". \nЭтот фильтр оставит только регионы с ID: {exampleIds}."
+SINGLE_MESSAGE_STRATEGIC_REGION_DATA_RECOVERY_LOAD_RESULT: "Успешно загружено {count} из {allCount} регионов."
+SINGLE_MESSAGE_STRATEGIC_REGION_DATA_RECOVERY_FILTER_RESULT: "Отфильтровано {count} из {allCount} регионов."
+SINGLE_MESSAGE_STRATEGIC_REGION_DATA_RECOVERY_RECOVERY_RESULT: "Успешно восстановлены данные о {count} из {allCount} регионов."
+
+MERGE_PROVINCES_TOOL_SECOND_AND_LAST_PROVINCES_HAVE_VICTORY_POINTS: "Вторая провинция с id = {secondProvinceId} и провинция с наибольшим id = {provinceIdToReplace} имеют очки победы в размере {secondProvinceVictoryPoints} и {provinceToReplaceVictoryPoints} единиц соответственно. \n\nВы уверены, что хотите заменить id провинции с {provinceIdToReplace} на {secondProvinceId} без замены локализации очков победы для этих провинций с этими id?"
+MERGE_PROVINCES_TOOL_SECOND_PROVINCE_HAS_VICTORY_POINTS: "Вторая провинция с id = {secondProvinceId} имеет очки победы в размере {secondProvinceVictoryPoints} единиц. \n\nВы уверены, что хотите передать её id = {secondProvinceId} другой провинции с id = {provinceIdToReplace} без замены локализации очков победы для второй провинции с id = {secondProvinceId}?"
+MERGE_PROVINCES_TOOL_LAST_PROVINCE_HAS_VICTORY_POINTS: "Провинция с наибольшим id = {provinceIdToReplace} имеет очки победы в размере {provinceToReplaceVictoryPoints} единиц. \n\nВы уверены, что хотите заменить id провинции с {provinceIdToReplace} на {secondProvinceId} без замены локализации очков победы для провинции с id = {provinceIdToReplace}?"
+
+TOOL_CAN_JOIN_RAILWAYS_BUT_THEY_HAS_DIFFERENT_LEVELS_SHOULD_I_COUNTINUE: "Вы пытаетесь объединить две дороги разных уровней ({firstRailwayLevel} и {secondRailwayLevel}). \n\nВы уверены, что хотите продолжить и установить для итоговой дороги уровень {newRailwayLevel}?"
 
 SINGLE_MESSAGE_STATE_NOT_FOUND_BY_ID: "Область с id = {stateId} не найдена."
 SINGLE_MESSAGE_NEW_PROVINCE_WITH_COLOR_WAS_CREATED: "Создана новая провинция с id = {provinceId} и цветом {color}"
@@ -131,9 +153,14 @@ ERROR_STATE_HISTORY_BUILDINGS_UNKNOWN_TOKEN_IN_PROVINCE: "У области id =
 ERROR_REGION_INCORRECT_PROVINCE_ID: "У региона с id = {regionId} в блоке provinces указано некорректное значение id провинции \"{provinceId}\""
 ERROR_REGION_PROVINCE_NOT_FOUND: "У региона с id = {regionId} в блоке provinces указан id несуществующей провинции \"{provinceId}\""
 ERROR_REGION_INCORRECT_NAVAL_TERRAIN_VALUE: "У региона с id = {regionId} указано неизвестное значение местности для параметра naval_terrain = \"{value}\"."
-ERROR_REGION_UNKNOWN_TOKEN_IN_PROVINCE: "У региона с id = {regionId} указан неизвестный токен \"{token}\"."
+ERROR_REGION_UNKNOWN_TOKEN: "У региона с id = {regionId} указан неизвестный токен \"{token}\"."
+ERROR_REGION_WEATHER_UNKNOWN_TOKEN: "У региона с id = {regionId} в блоке \"weather\" указан некорректный токен \"{token}\"."
+ERROR_REGION_WEATHER_PERIOD_UNKNOWN_TOKEN: "У региона с id = {regionId} в блоке \"weather\" в периоде \"{period}\" указан неизвестный \"{token}\"."
 
 ERROR_REGION_UNSUCCESSFUL_REGION_ID_PARSE_RESULT: "[Не удалось распарсить id стратегического региона]"
+ERROR_REGION_DUPLICATE_ID: "ID = {regionId} уже занято другим регионом. Первое определение ID было в файле {firstFilePath}."
+ERROR_MULTI_REGIONS_IN_FILE: "В файле объявлено более одного стратегического региона."
+ERROR_REGION_HAS_NO_FILE: "У региона не указан файл, в который его нужно сохранить."
 ERROR_WHILE_REGION_LOADING: "Не удалось загрузить стратегический регион с id = {regionId} из файла {filePath}."
 
 ERROR_ADJACENCY_LOADING_INCORRECT_PARAMS_COUNT: "В adjacency с id = {adjacencyId} указано некорректное количество параметров ({currentCount} вместо {correctCount})."

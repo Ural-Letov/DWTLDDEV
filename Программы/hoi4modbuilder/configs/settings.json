@@ -11,14 +11,12 @@
   "MAP_VIEWPORT_HEIGHT": 1004.0,
   "maxAdditionalTextureSize": 2048,
   "searchErrorsSettings": {
-    "errors": [
-      "PROVINCE_X_CROSS"
-    ]
+    "errors": []
   },
   "defaultModSettings": {
     "normalMapStrength": 1.5,
     "exportRiversMapWithWaterPixels": true,
-    "generateNormalMap": true,
+    "generateNormalMap": false,
     "MAP_SCALE_PIXEL_TO_KM": 7.114,
     "WATER_HEIGHT": 9.5
   }
