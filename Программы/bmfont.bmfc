@@ -2,10 +2,10 @@
 fileVersion=1
 
 # font settings
-fontName=Matilda script
+fontName=Łucznik 1303 Plus
 fontFile=
 charSet=0
-fontSize=34
+fontSize=16
 aa=1
 scaleH=100
 useSmoothing=1
@@ -27,15 +27,15 @@ paddingDown=0
 paddingUp=0
 paddingRight=0
 paddingLeft=0
-spacingHoriz=8
-spacingVert=8
+spacingHoriz=12
+spacingVert=12
 useFixedHeight=0
 forceZero=0
 widthPaddingFactor=0.00
 
 # output file
-outWidth=400
-outHeight=600
+outWidth=512
+outHeight=512
 outBitDepth=32
 fontDescFormat=0
 fourChnlPacked=0
@@ -54,9 +54,7 @@ invB=0
 outlineThickness=0
 
 # selected chars
-chars=32-126,164,166-167,169,171-172,174,176-177,181-183,187,1025,1028,1030-1031,1038,1040-1103,1105,1108
-chars=1110-1111,1118,1122-1123,1138-1141,1168-1171,1174-1179,1184-1189,1194-1195,1198-1203,1206-1207,1210
-chars=1211,1216,1227-1228,1231-1241,1244-1247,1250-1257,1262-1269,1272-1273,8211-8212,8216-8218,8220-8222
-chars=8224-8226,8230,8240,8249-8250
+chars=0-0,29,32-126,160-161,166-169,173-175,180,182-183,191,193,201,205,209,211,218,225,233,237,241,243
+chars=247,250,1025,1040-1103,1105,1108,1110,8211-8212,8216-8218,8220-8222,8226
 
 # imported icon images
