@@ -5,8 +5,6 @@ fs.readdir(folder, (err, files) => {
     files.forEach(item => {
         id = Number(item.split('-')[0]);
 
-        if (id > 133) {
-            fs.writeFileSync(`${folder}\\${item}`, `state = {\n\tid = ${id}\n\tname = "STATE_${id}"\n\tprovinces = {\n\t\t${id}\n\t}\n\tmanpower = 1000\n\tbuildings_max_level_factor = 1\n}\n`);
-        }
+        fs.writeFileSync(`${folder}\\${item}`, `state = {\n\tid = ${id}\n\tname = "STATE_${id}"\n\tstate_category = pastoral\n\n\thistory = {\n\t\towner = TST\n\t}\n\tprovinces = {\n\t\t${id}\n\t}\n\tmanpower = 1000\n\tbuildings_max_level_factor = 1\n}\n`);
     })
 });
